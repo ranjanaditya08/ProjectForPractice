@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/images/favicon.ico" />
+    <title>
+      Croma Electronics | Online Electronics Shopping | Buy Electronics Online
+    </title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+        <div class="top-bar">
+            <div id="container">
+                <a href="#">
+                    <img src="/images/Croma_Logo.svg" alt="Croma Logo" id="logo" />
+                </a>
+                <div id="menu">
+                    <span>
+                        <i class="fa fa-bars"></i>
+                    </span>
+                    <span class="text-white">Menu</span>
+                </div>
+                <div id="search-acc-container">
+                    <div id="search-bar">
+                        <input type="search" placeholder="What are you looking for?" />
+                        <span>
+                            <i class="fa fa-magnifying-glass"></i>
+                        </span>
+                    </div>
+                    <div id="cart-acc-container">
+                        <div id="delivery-location">
+                            <i class="fa fa-location-dot"></i>
+                            <span class="text-white">Mumbai, 400049</span>
+                            <i class="fa fa-pen"></i>
+                        </div>
+                        <i class="fa fa-user"></i>
+                        <i class="fa fa-cart-shopping"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="slider1">
+        <img src="/images/Slide0.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide1.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide2.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide3.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide4.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide5.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide6.webp" alt="Slider Image" class="slide">
+        <img src="/images/Slide7.webp" alt="Slider Image" class="slide">
+
+        <div class="slide-btn">
+            <button id="prev" onclick="goPrev()"><i class="fa-solid fa-less-than"></i></button>
+            <button id="next" onclick="goNext()"><i class="fa-solid fa-greater-than"></i></button>
+        </div>
+    </div>
+
+    <div class="slider2">
+        <div class="slide-container">
+            <button class="prev1" onclick="prevSlide()">&#10094;</button>
+            <div class="slider-wrapper">
+                <img src="/images/sm-slide1.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide2.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide3.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide4.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide5.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide6.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide7.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide8.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide9.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide10.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide11.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide12.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide13.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide14.webp" alt="slide image" class="sm-slide">
+                <img src="/images/sm-slide15.webp" alt="slide image" class="sm-slide">
+            </div>  
+            <button class="next1" onclick="nextSlide()">&#10095;</button>
+        </div>       
+    </div>
+    
+    
+    <main>
+        <div class="offers-section">
+            <h2>Exciting Bank Offers For You</h2>
+            <div class="offers-container">
+                <img src="/images/bank-offer1.webp" alt="Offer 1" class="offer-image">
+                <img src="/images/bank-offer2.webp" alt="Offer 2" class="offer-image">
+            </div>
+        </div>
+        <div class="fav">
+            <h2>Our New Favourites</h2>
+            <img src="/images/favourite-image.webp" alt="favourite">
+        </div>
+
+        <div class="hot">
+            <h2>What's Hot</h2>
+            <div class="hot-deals">
+                <img src="/images/hot-deal1.webp" alt="hot-deal1">
+                <img src="/images/hot-deal2.webp" alt="hot-deal2">
+                <img src="/images/hot-deal3.webp" alt="hot-deal3">
+                <img src="/images/hot-deal4.webp" alt="hot-deal4">
+            </div>
+        </div>
+
+        <div class="time-deal">
+            <h2>Limited Time Deals</h2>
+            <div class="time-deal-img">
+                <img src="/images/time-deal1.webp" alt="time-deal" class="deal-img">
+                <img src="/images/time-deal2.webp" alt="time-deal" class="deal-img">
+            </div>
+            
+        </div>
+
+        <div class="deal">
+            <h2>Deals Of The Day</h2>
+            <div class="deals">
+                <img src="/images/deals1.webp" alt="hot-deal1">
+                <img src="/images/deals2.webp" alt="hot-deal2">
+                <img src="/images/deals3.webp" alt="hot-deal3">
+                <img src="/images/deals4.webp" alt="hot-deal4">
+            </div>
+        </div>
+
+        <div class="tata-neu">
+            <h2>Experience Croma On Tata Neu!</h2>
+            <img src="/images/tata-neu.webp" alt="tata-neu-img">
+        </div>
+
+        <div class="appliance">
+            <h2>No More Worrying About Your Appliances</h2>
+            <img src="/images/appliances.webp" alt="appliance">
+        </div>
+
+        <div class="curated">
+            <h2>Exclusively Curated For You</h2>
+            <div class="curated-deals">
+                <img src="/images/Croma_Collections.webp" alt="Curated Deals">
+                <img src="/images/Top Shelf.webp" alt="Curated Deals">
+                <img src="/images/Croma Express.webp" alt="Curated Deals">
+                <img src="/images/EMI Store.webp" alt="Curated Deals">
+                <img src="/images/Deals corner.webp" alt="Curated Deals">
+                <img src="/images/Deal of the week.webp" alt="Curated Deals">
+                <img src="/images/E-Waste.webp" alt="Curated Deals">
+            </div>
+        </div>
+
+        <div class="gift">
+            <img src="/images/gift1.webp" alt="gift">
+            <img src="/images/gift2.webp" alt="gift">
+        </div>
+
+        <div class="why-croma">
+            <h2>Why Croma</h2>
+            <img src="/images/why-croma.webp" alt="why-croma">
+        </div>
+        
+    </main>
+
+    <div class="slider3">
+        <div class="slide1-container">
+            <button class="prev1" onclick="prevSlide1()">&#10094;</button>
+            <div class="slider1-wrapper">
+                <img src="/images/md-slide1.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide2.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide3.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide4.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide5.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide6.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide7.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide8.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide9.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide10.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide11.webp" alt="slide image" class="md-slide">
+                <img src="/images/md-slide12.webp" alt="slide image" class="md-slide">
+            </div>  
+            <button class="next1" onclick="nextSlide1()">&#10095;</button>
+        </div>       
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section connect">
+                <h4>CONNECT WITH US</h4>
+                <div class="email-input">
+                    <input type="email" placeholder="Enter Email ID">
+                    <button type="button">→</button>
+                </div>
+                <div class="social-icons">
+                    <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                </div>
+                <p>&copy; Copyright 2023 Croma. All rights reserved</p>
+            </div>
+            <hr>
+            <div class="footer-section links">
+                <h4>USEFUL LINKS</h4>
+                <div class="left-footer">
+                    <ul>
+                        <li><a href="#">About Croma</a></li>
+                        <li><a href="#">Help And Support</a></li>
+                        <li><a href="#">FAQs</a></li>
+                        <li><a href="#">Buying Guide</a></li>
+                        <li><a href="#">Return Policy</a></li>
+                        <li><a href="#">B2B Orders</a></li>
+                        <li><a href="#">Store Locator</a></li>
+                        <li><a href="#">E-Waste</a></li>
+                        <li><a href="#">Franchise Opportunity</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#">Site Map</a></li>
+                        <li><a href="#">Careers At Croma</a></li>
+                        <li><a href="#">Terms Of Use</a></li>
+                        <li><a href="#">Disclaimer</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Unboxed</a></li>
+                        <li><a href="#">Gift Card</a></li>
+                        <li><a href="#">Croma E-Star</a></li>
+                    </ul>
+                </div>           
+            </div>
+            <hr>
+            <div class="footer-section products">
+                <h4>PRODUCTS</h4>
+                <div class="right-footer">
+                    <ul>
+                        <li><a href="#">Televisions & Accessories</a></li>
+                        <li><a href="#">Home Appliances</a></li>
+                        <li><a href="#">Phones & Wearables</a></li>
+                        <li><a href="#">Computers & Tablets</a></li>
+                        <li><a href="#">Kitchen Appliances</a></li>
+                        <li><a href="#">Audio & Video</a></li>
+                        <li><a href="#">Health & Fitness</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#">Grooming & Personal Care</a></li>
+                        <li><a href="#">Cameras & Accessories</a></li>
+                        <li><a href="#">Smart Devices</a></li>
+                        <li><a href="#">Gaming</a></li>
+                        <li><a href="#">Accessories</a></li>
+                        <li><a href="#">Top Brands</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    </footer>
+    
+    
+
+    <script src="script.js"></script>
+  </body>   
+</html>
