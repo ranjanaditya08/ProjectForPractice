@@ -1,0 +1,2748 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 762
+    },
+    {
+      "id": "2",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "bold and bright for a youthful appearance",
+      "price": 1560
+    },
+    {
+      "id": "3",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 5553
+    },
+    {
+      "id": "4",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 5675
+    },
+    {
+      "id": "5",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "contemporary design with a touch of vintage",
+      "price": 1271
+    },
+    {
+      "id": "6",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "LuxeSight Spectacles",
+      "description": "luxurious frames with a glossy finish",
+      "price": 9349
+    },
+    {
+      "id": "7",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bright Buddy Eyewear",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 1111
+    },
+    {
+      "id": "8",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Visionary Frames",
+      "description": "flexible hinges for a perfect fit",
+      "price": 4425
+    },
+    {
+      "id": "9",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 1214
+    },
+    {
+      "id": "10",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "retro-inspired with modern detailing",
+      "price": 2675
+    },
+    {
+      "id": "11",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 9017
+    },
+    {
+      "id": "12",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Explorer Frames",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 8341
+    },
+    {
+      "id": "13",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 4916
+    },
+    {
+      "id": "14",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "bold frames for a confident look",
+      "price": 5674
+    },
+    {
+      "id": "15",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "frameless for an unobstructed view",
+      "price": 2912
+    },
+    {
+      "id": "16",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Sight Spectacles",
+      "description": "classic round frames with a modern twist",
+      "price": 9671
+    },
+    {
+      "id": "17",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "fashion-forward designs with intricate details",
+      "price": 3998
+    },
+    {
+      "id": "18",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 3417
+    },
+    {
+      "id": "19",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "high-definition lenses for crisp",
+      "price": 1115
+    },
+    {
+      "id": "20",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Visionary Frames",
+      "description": "high-definition lenses for crisp",
+      "price": 1796
+    },
+    {
+      "id": "21",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Sight Spectacles",
+      "description": "blue light blocking for eye strain relief",
+      "price": 4921
+    },
+    {
+      "id": "22",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "UV protection with sleek design",
+      "price": 7027
+    },
+    {
+      "id": "23",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "high-definition lenses for crisp",
+      "price": 4536
+    },
+    {
+      "id": "24",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "bold frames for a confident look",
+      "price": 8122
+    },
+    {
+      "id": "25",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 9263
+    },
+    {
+      "id": "26",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "high-fashion design with comfortable fit",
+      "price": 2696
+    },
+    {
+      "id": "27",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "minimalist design with premium materials",
+      "price": 9107
+    },
+    {
+      "id": "28",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "classic aviator style with updated features",
+      "price": 271
+    },
+    {
+      "id": "29",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 2336
+    },
+    {
+      "id": "30",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "luxurious frames with a glossy finish",
+      "price": 6446
+    },
+    {
+      "id": "31",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Alpha Vision Power Glasses",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 7683
+    },
+    {
+      "id": "32",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "sleek and modern for a sophisticated look",
+      "price": 8424
+    },
+    {
+      "id": "33",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 3140
+    },
+    {
+      "id": "34",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "fashion-forward designs with intricate details",
+      "price": 8503
+    },
+    {
+      "id": "35",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "retro-inspired with modern detailing",
+      "price": 8078
+    },
+    {
+      "id": "36",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "flexible hinges for a perfect fit",
+      "price": 5645
+    },
+    {
+      "id": "37",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "retro-inspired with modern detailing",
+      "price": 7125
+    },
+    {
+      "id": "38",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "LuxeSight Spectacles",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 6859
+    },
+    {
+      "id": "39",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 7901
+    },
+    {
+      "id": "40",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Prestige Power Glasses",
+      "description": "hypoallergenic materials for sensitive skin",
+      "price": 9863
+    },
+    {
+      "id": "41",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "sporty design for outdoor adventures",
+      "price": 9815
+    },
+    {
+      "id": "42",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 689
+    },
+    {
+      "id": "43",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 1994
+    },
+    {
+      "id": "44",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 375
+    },
+    {
+      "id": "45",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "oversized frames for a bold presence",
+      "price": 671
+    },
+    {
+      "id": "46",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "bold colors and patterns for a striking look",
+      "price": 1170
+    },
+    {
+      "id": "47",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Alpha Vision Power Glasses",
+      "description": "customizable frame colors for personalized fashion",
+      "price": 4934
+    },
+    {
+      "id": "48",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 1547
+    },
+    {
+      "id": "49",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "bold frames for a confident look",
+      "price": 5892
+    },
+    {
+      "id": "50",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "hypoallergenic materials for sensitive skin",
+      "price": 7136
+    },
+    {
+      "id": "51",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "classic aviator style with updated features",
+      "price": 6250
+    },
+    {
+      "id": "52",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "retro-inspired with modern detailing",
+      "price": 7503
+    },
+    {
+      "id": "53",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "durable and reliable for everyday wear",
+      "price": 3921
+    },
+    {
+      "id": "54",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "durable and reliable for everyday wear",
+      "price": 8549
+    },
+    {
+      "id": "55",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "bold frames for a confident look",
+      "price": 720
+    },
+    {
+      "id": "56",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Prestige Power Glasses",
+      "description": "oversized frames for a bold presence",
+      "price": 9771
+    },
+    {
+      "id": "57",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "LuxeSight Spectacles",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 6047
+    },
+    {
+      "id": "58",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "compact and portable for on-the-go use",
+      "price": 4441
+    },
+    {
+      "id": "59",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 1493
+    },
+    {
+      "id": "60",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Adventure Junior Shades",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 8607
+    },
+    {
+      "id": "61",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "lightweight frames for everyday comfort",
+      "price": 7687
+    },
+    {
+      "id": "62",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 6996
+    },
+    {
+      "id": "63",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "sleek and understated for a refined appearance",
+      "price": 650
+    },
+    {
+      "id": "64",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Elegant Femme Eyewear",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 4692
+    },
+    {
+      "id": "65",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Dazzle Femme Glasses",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 5432
+    },
+    {
+      "id": "66",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "contemporary design with a touch of vintage",
+      "price": 472
+    },
+    {
+      "id": "67",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "elegant and timeless for professional wear",
+      "price": 8536
+    },
+    {
+      "id": "68",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Cool Kiddo Specs",
+      "description": "classic round frames with a modern twist",
+      "price": 8355
+    },
+    {
+      "id": "69",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Cool Kiddo Specs",
+      "description": "retro-inspired with modern detailing",
+      "price": 8534
+    },
+    {
+      "id": "70",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Cool Kiddo Specs",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 5929
+    },
+    {
+      "id": "71",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "bold frames for a confident look",
+      "price": 5911
+    },
+    {
+      "id": "72",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 7942
+    },
+    {
+      "id": "73",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Sight Spectacles",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 3232
+    },
+    {
+      "id": "74",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Visionary Frames",
+      "description": "versatile frames for any occasion",
+      "price": 9804
+    },
+    {
+      "id": "75",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Cool Eye Frames",
+      "description": "retro-inspired with modern detailing",
+      "price": 445
+    },
+    {
+      "id": "76",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "full-rimmed frames for a sturdy build",
+      "price": 304
+    },
+    {
+      "id": "77",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "elegant and timeless for professional wear",
+      "price": 1722
+    },
+    {
+      "id": "78",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bright Buddy Eyewear",
+      "description": "UV protection with sleek design",
+      "price": 9510
+    },
+    {
+      "id": "79",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 9660
+    },
+    {
+      "id": "80",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Sight Spectacles",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 8592
+    },
+    {
+      "id": "81",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Chic Visionary Frames",
+      "description": "high-fashion design with comfortable fit",
+      "price": 6371
+    },
+    {
+      "id": "82",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 2518
+    },
+    {
+      "id": "83",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Dazzle Femme Glasses",
+      "description": "sleek and understated for a refined appearance",
+      "price": 4352
+    },
+    {
+      "id": "84",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Visionary Frames",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 9948
+    },
+    {
+      "id": "85",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Little Hero Vision",
+      "description": "contemporary design with a touch of vintage",
+      "price": 9222
+    },
+    {
+      "id": "86",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 2933
+    },
+    {
+      "id": "87",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 7896
+    },
+    {
+      "id": "88",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 5377
+    },
+    {
+      "id": "89",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "minimalist design with premium materials",
+      "price": 2606
+    },
+    {
+      "id": "90",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 7373
+    },
+    {
+      "id": "91",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "oversized frames for a bold presence",
+      "price": 3032
+    },
+    {
+      "id": "92",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 8462
+    },
+    {
+      "id": "93",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "custom engravings for a personal touch",
+      "price": 808
+    },
+    {
+      "id": "94",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "unique patterns and textures for standout style",
+      "price": 9328
+    },
+    {
+      "id": "95",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "custom engravings for a personal touch",
+      "price": 9660
+    },
+    {
+      "id": "96",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "sleek and modern for a sophisticated look",
+      "price": 6163
+    },
+    {
+      "id": "97",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "clear vision",
+      "price": 4137
+    },
+    {
+      "id": "98",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 5911
+    },
+    {
+      "id": "99",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "sleek and understated for a refined appearance",
+      "price": 5776
+    },
+    {
+      "id": "100",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Little Explorer Frames",
+      "description": "compact and portable for on-the-go use",
+      "price": 2538
+    },
+    {
+      "id": "101",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TrendSetter Eyewear",
+      "description": "lightweight frames for everyday comfort",
+      "price": 8380
+    },
+    {
+      "id": "102",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "high-definition lenses for crisp",
+      "price": 3953
+    },
+    {
+      "id": "103",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "bold and bright for a youthful appearance",
+      "price": 2438
+    },
+    {
+      "id": "104",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "elegant and timeless for professional wear",
+      "price": 7183
+    },
+    {
+      "id": "105",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TrendSetter Eyewear",
+      "description": "sleek and understated for a refined appearance",
+      "price": 3959
+    },
+    {
+      "id": "106",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Visionary Frames",
+      "description": "clear vision",
+      "price": 7191
+    },
+    {
+      "id": "107",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Metro Elegance Eye Glasses",
+      "description": "durable and reliable for everyday wear",
+      "price": 930
+    },
+    {
+      "id": "108",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Metro Elegance Eye Glasses",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 3398
+    },
+    {
+      "id": "109",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Alpha Vision Power Glasses",
+      "description": "clear vision",
+      "price": 8279
+    },
+    {
+      "id": "110",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 7607
+    },
+    {
+      "id": "111",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Glamorize Sun Shields",
+      "description": "full-rimmed frames for a sturdy build",
+      "price": 4497
+    },
+    {
+      "id": "112",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Versatile Vision Glasses",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 1796
+    },
+    {
+      "id": "113",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Urban Cool Eye Frames",
+      "description": "chic and fashionable for trendsetters",
+      "price": 8489
+    },
+    {
+      "id": "114",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "contemporary design with a touch of vintage",
+      "price": 8946
+    },
+    {
+      "id": "115",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "clear vision",
+      "price": 3267
+    },
+    {
+      "id": "116",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "sleek and understated for a refined appearance",
+      "price": 9916
+    },
+    {
+      "id": "117",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "classic round frames with a modern twist",
+      "price": 3829
+    },
+    {
+      "id": "118",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "sleek and understated for a refined appearance",
+      "price": 4175
+    },
+    {
+      "id": "119",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "high-definition lenses for crisp",
+      "price": 3229
+    },
+    {
+      "id": "120",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Prestige Power Glasses",
+      "description": "hypoallergenic materials for sensitive skin",
+      "price": 8938
+    },
+    {
+      "id": "121",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TrendSetter Eyewear",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 5719
+    },
+    {
+      "id": "122",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Adventure Junior Shades",
+      "description": "lightweight frames for everyday comfort",
+      "price": 1550
+    },
+    {
+      "id": "123",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Little Hero Vision",
+      "description": "custom engravings for a personal touch",
+      "price": 8476
+    },
+    {
+      "id": "124",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Adventure Junior Shades",
+      "description": "minimalist design with premium materials",
+      "price": 7344
+    },
+    {
+      "id": "125",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "unique patterns and textures for standout style",
+      "price": 8789
+    },
+    {
+      "id": "126",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 8016
+    },
+    {
+      "id": "127",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bright Buddy Eyewear",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 6180
+    },
+    {
+      "id": "128",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Explorer Frames",
+      "description": "bold frames for a confident look",
+      "price": 3264
+    },
+    {
+      "id": "129",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TrendSetter Eyewear",
+      "description": "minimalist design with premium materials",
+      "price": 6285
+    },
+    {
+      "id": "130",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 3068
+    },
+    {
+      "id": "131",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "chic and fashionable for trendsetters",
+      "price": 2881
+    },
+    {
+      "id": "132",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "retro-inspired with modern detailing",
+      "price": 3518
+    },
+    {
+      "id": "133",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 514
+    },
+    {
+      "id": "134",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "elegant and timeless for professional wear",
+      "price": 8002
+    },
+    {
+      "id": "135",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 4952
+    },
+    {
+      "id": "136",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "oversized frames for a bold presence",
+      "price": 9201
+    },
+    {
+      "id": "137",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "custom engravings for a personal touch",
+      "price": 9278
+    },
+    {
+      "id": "138",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "classic aviator style with updated features",
+      "price": 5965
+    },
+    {
+      "id": "139",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "chic and fashionable for trendsetters",
+      "price": 2479
+    },
+    {
+      "id": "140",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 1768
+    },
+    {
+      "id": "141",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "hypoallergenic materials for sensitive skin",
+      "price": 3100
+    },
+    {
+      "id": "142",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 5170
+    },
+    {
+      "id": "143",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 7805
+    },
+    {
+      "id": "144",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Alpha Vision Power Glasses",
+      "description": "durable and reliable for everyday wear",
+      "price": 6205
+    },
+    {
+      "id": "145",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Explorer Frames",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 7357
+    },
+    {
+      "id": "146",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "sporty design for outdoor adventures",
+      "price": 8781
+    },
+    {
+      "id": "147",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Horizon Eyewear",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 6066
+    },
+    {
+      "id": "148",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Playful Sight Spectacles",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 7780
+    },
+    {
+      "id": "149",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "durable acetate for a premium feel",
+      "price": 2075
+    },
+    {
+      "id": "150",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Explorer Frames",
+      "description": "full-rimmed frames for a sturdy build",
+      "price": 3518
+    },
+    {
+      "id": "151",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "chic and fashionable for trendsetters",
+      "price": 4830
+    },
+    {
+      "id": "152",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 2941
+    },
+    {
+      "id": "153",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "high-definition lenses for crisp",
+      "price": 9270
+    },
+    {
+      "id": "154",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "versatile frames for any occasion",
+      "price": 3823
+    },
+    {
+      "id": "155",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "sporty design for outdoor adventures",
+      "price": 2746
+    },
+    {
+      "id": "156",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "flexible frames for an active lifestyle",
+      "price": 1780
+    },
+    {
+      "id": "157",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "minimalist design with premium materials",
+      "price": 3095
+    },
+    {
+      "id": "158",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 2468
+    },
+    {
+      "id": "159",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "custom engravings for a personal touch",
+      "price": 4954
+    },
+    {
+      "id": "160",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Adventure Junior Shades",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 8680
+    },
+    {
+      "id": "161",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 3461
+    },
+    {
+      "id": "162",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 6922
+    },
+    {
+      "id": "163",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Urban Elite Frames",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 8540
+    },
+    {
+      "id": "164",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 8993
+    },
+    {
+      "id": "165",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 1103
+    },
+    {
+      "id": "166",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 1307
+    },
+    {
+      "id": "167",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "bold and bright for a youthful appearance",
+      "price": 9601
+    },
+    {
+      "id": "168",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Chic Visionary Frames",
+      "description": "frameless for an unobstructed view",
+      "price": 1667
+    },
+    {
+      "id": "169",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 9523
+    },
+    {
+      "id": "170",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 5156
+    },
+    {
+      "id": "171",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Playful Sight Spectacles",
+      "description": "versatile frames for any occasion",
+      "price": 6706
+    },
+    {
+      "id": "172",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "classic round frames with a modern twist",
+      "price": 4706
+    },
+    {
+      "id": "173",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "classic round frames with a modern twist",
+      "price": 8022
+    },
+    {
+      "id": "174",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Cool Kiddo Specs",
+      "description": "minimalist design with premium materials",
+      "price": 201
+    },
+    {
+      "id": "175",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 4909
+    },
+    {
+      "id": "176",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 2365
+    },
+    {
+      "id": "177",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "flexible frames for an active lifestyle",
+      "price": 3712
+    },
+    {
+      "id": "178",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "compact and portable for on-the-go use",
+      "price": 7207
+    },
+    {
+      "id": "179",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "high-definition lenses for crisp",
+      "price": 5512
+    },
+    {
+      "id": "180",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "compact and portable for on-the-go use",
+      "price": 7503
+    },
+    {
+      "id": "181",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Elegant Femme Eyewear",
+      "description": "durable and reliable for everyday wear",
+      "price": 7059
+    },
+    {
+      "id": "182",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 7374
+    },
+    {
+      "id": "183",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "retro-inspired with modern detailing",
+      "price": 5854
+    },
+    {
+      "id": "184",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 5225
+    },
+    {
+      "id": "185",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "frameless for an unobstructed view",
+      "price": 3690
+    },
+    {
+      "id": "186",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bright Buddy Eyewear",
+      "description": "bold and bright for a youthful appearance",
+      "price": 6512
+    },
+    {
+      "id": "187",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 7936
+    },
+    {
+      "id": "188",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Hero Vision",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 1879
+    },
+    {
+      "id": "189",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "custom engravings for a personal touch",
+      "price": 8822
+    },
+    {
+      "id": "190",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "custom engravings for a personal touch",
+      "price": 4040
+    },
+    {
+      "id": "191",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "bold frames for a confident look",
+      "price": 4210
+    },
+    {
+      "id": "192",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 6341
+    },
+    {
+      "id": "193",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 4730
+    },
+    {
+      "id": "194",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "retro-inspired with modern detailing",
+      "price": 7269
+    },
+    {
+      "id": "195",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "lightweight frames for everyday comfort",
+      "price": 6071
+    },
+    {
+      "id": "196",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "sleek and understated for a refined appearance",
+      "price": 5321
+    },
+    {
+      "id": "197",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "bold frames for a confident look",
+      "price": 9488
+    },
+    {
+      "id": "198",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "SmartLook Vision",
+      "description": "high-definition lenses for crisp",
+      "price": 3816
+    },
+    {
+      "id": "199",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "compact and portable for on-the-go use",
+      "price": 5918
+    },
+    {
+      "id": "200",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "lightweight frames for everyday comfort",
+      "price": 3558
+    },
+    {
+      "id": "201",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "fashion-forward designs with intricate details",
+      "price": 9247
+    },
+    {
+      "id": "202",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 515
+    },
+    {
+      "id": "203",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 1278
+    },
+    {
+      "id": "204",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "clear vision",
+      "price": 1514
+    },
+    {
+      "id": "205",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Elegant Femme Eyewear",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 6987
+    },
+    {
+      "id": "206",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Chic Visionary Frames",
+      "description": "flexible hinges for a perfect fit",
+      "price": 4636
+    },
+    {
+      "id": "207",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Pure Grace Eyewear",
+      "description": "flexible hinges for a perfect fit",
+      "price": 3131
+    },
+    {
+      "id": "208",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 5605
+    },
+    {
+      "id": "209",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "compact and portable for on-the-go use",
+      "price": 6022
+    },
+    {
+      "id": "210",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "customizable frame colors for personalized fashion",
+      "price": 8523
+    },
+    {
+      "id": "211",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "classic rectangular frames for a timeless look",
+      "price": 4595
+    },
+    {
+      "id": "212",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TrendSetter Eyewear",
+      "description": "flexible hinges for a perfect fit",
+      "price": 3879
+    },
+    {
+      "id": "213",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TrendSetter Eyewear",
+      "description": "UV protection with sleek design",
+      "price": 2561
+    },
+    {
+      "id": "214",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 4778
+    },
+    {
+      "id": "215",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 2974
+    },
+    {
+      "id": "216",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Nova Vision Pro",
+      "description": "minimalist design with premium materials",
+      "price": 1822
+    },
+    {
+      "id": "217",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 5882
+    },
+    {
+      "id": "218",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "durable and reliable for everyday wear",
+      "price": 8524
+    },
+    {
+      "id": "219",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 448
+    },
+    {
+      "id": "220",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 7260
+    },
+    {
+      "id": "221",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Glamorize Sun Shields",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 773
+    },
+    {
+      "id": "222",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 5805
+    },
+    {
+      "id": "223",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "retro-inspired with modern detailing",
+      "price": 595
+    },
+    {
+      "id": "224",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Color Splash Kids Glasses",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 1851
+    },
+    {
+      "id": "225",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "classic round frames with a modern twist",
+      "price": 1479
+    },
+    {
+      "id": "226",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 8270
+    },
+    {
+      "id": "227",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "sporty design for outdoor adventures",
+      "price": 4287
+    },
+    {
+      "id": "228",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 897
+    },
+    {
+      "id": "229",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Versatile Vision Glasses",
+      "description": "flexible hinges for a perfect fit",
+      "price": 1946
+    },
+    {
+      "id": "230",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "lightweight and comfortable for all-day wear",
+      "price": 2971
+    },
+    {
+      "id": "231",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 8218
+    },
+    {
+      "id": "232",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "polarized lenses for enhanced clarity",
+      "price": 7337
+    },
+    {
+      "id": "233",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "LuxeSight Spectacles",
+      "description": "tinted lenses for added protection from sunlight",
+      "price": 8141
+    },
+    {
+      "id": "234",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Adventure Junior Shades",
+      "description": "clear vision",
+      "price": 2697
+    },
+    {
+      "id": "235",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TrendSetter Eyewear",
+      "description": "sporty design for outdoor adventures",
+      "price": 1721
+    },
+    {
+      "id": "236",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "unique patterns and textures for standout style",
+      "price": 3599
+    },
+    {
+      "id": "237",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sleek Sight Spectacles",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 4173
+    },
+    {
+      "id": "238",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "elegant and timeless for professional wear",
+      "price": 8931
+    },
+    {
+      "id": "239",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 8943
+    },
+    {
+      "id": "240",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "customizable frame colors for personalized fashion",
+      "price": 2441
+    },
+    {
+      "id": "241",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "fashion-forward designs with intricate details",
+      "price": 2724
+    },
+    {
+      "id": "242",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "bold colors and patterns for a striking look",
+      "price": 4984
+    },
+    {
+      "id": "243",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27237492/pexels-photo-27237492/free-photo-of-elegant-eyewear-a-trio-of-stylish-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 1249
+    },
+    {
+      "id": "244",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "RetroFlex EyeWear",
+      "description": "high-fashion design with comfortable fit",
+      "price": 2165
+    },
+    {
+      "id": "245",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "custom engravings for a personal touch",
+      "price": 1363
+    },
+    {
+      "id": "246",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "City Sleek Spectacles",
+      "description": "frameless for an unobstructed view",
+      "price": 5594
+    },
+    {
+      "id": "247",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 4006
+    },
+    {
+      "id": "248",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 519
+    },
+    {
+      "id": "249",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "elegant and timeless for professional wear",
+      "price": 8064
+    },
+    {
+      "id": "250",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Cool Eye Frames",
+      "description": "durable titanium construction for long-lasting use",
+      "price": 2667
+    },
+    {
+      "id": "251",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Versatile Vision Glasses",
+      "description": "oversized frames for a bold presence",
+      "price": 7792
+    },
+    {
+      "id": "252",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Little Explorer Frames",
+      "description": "luxurious frames with a glossy finish",
+      "price": 7563
+    },
+    {
+      "id": "253",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Bold Man Frame",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 1054
+    },
+    {
+      "id": "254",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "full-rimmed frames for a sturdy build",
+      "price": 5449
+    },
+    {
+      "id": "255",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "sleek and modern for a sophisticated look",
+      "price": 4707
+    },
+    {
+      "id": "256",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "UV protection with sleek design",
+      "price": 8638
+    },
+    {
+      "id": "257",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "flexible frames for an active lifestyle",
+      "price": 9983
+    },
+    {
+      "id": "258",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Blossom Shades Eye Gear",
+      "description": "minimalist design with premium materials",
+      "price": 5207
+    },
+    {
+      "id": "259",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 6120
+    },
+    {
+      "id": "260",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "classic aviator style with updated features",
+      "price": 8062
+    },
+    {
+      "id": "261",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/3042732/pexels-photo-3042732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Metro Elegance Eye Glasses",
+      "description": "fashion-forward designs with intricate details",
+      "price": 9298
+    },
+    {
+      "id": "262",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "durable and reliable for everyday wear",
+      "price": 5581
+    },
+    {
+      "id": "263",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "retro-inspired with modern detailing",
+      "price": 2861
+    },
+    {
+      "id": "264",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Cool Kiddo Specs",
+      "description": "durable acetate for a premium feel",
+      "price": 3587
+    },
+    {
+      "id": "265",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "CoolLook Vision",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 4447
+    },
+    {
+      "id": "266",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "flexible hinges for a perfect fit",
+      "price": 1597
+    },
+    {
+      "id": "267",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/26967134/pexels-photo-26967134/free-photo-of-vintage-charm-classic-round-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Dazzle Femme Glasses",
+      "description": "lightweight frames for everyday comfort",
+      "price": 5612
+    },
+    {
+      "id": "268",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "Stylish and durable with anti-glare coating",
+      "price": 6182
+    },
+    {
+      "id": "269",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Alpha Vision Power Glasses",
+      "description": "versatile frames for any occasion",
+      "price": 1414
+    },
+    {
+      "id": "270",
+      "categoryId": "kids",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "retro-inspired with modern detailing",
+      "price": 3836
+    },
+    {
+      "id": "271",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Stylish Vision Spectacles",
+      "description": "sleek and understated for a refined appearance",
+      "price": 964
+    },
+    {
+      "id": "272",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226866/pexels-photo-4226866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Urban Elite Frames",
+      "description": "high-fashion design with comfortable fit",
+      "price": 900
+    },
+    {
+      "id": "273",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Nova Vision Pro",
+      "description": "sleek and understated for a refined appearance",
+      "price": 6513
+    },
+    {
+      "id": "274",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Elegant Femme Eyewear",
+      "description": "blue light blocking for eye strain relief",
+      "price": 8680
+    },
+    {
+      "id": "275",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "lightweight metal frames for an elegant touch",
+      "price": 1879
+    },
+    {
+      "id": "276",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sophisticated Lady Glasses",
+      "description": "multi-functional lenses for varying light conditions",
+      "price": 6477
+    },
+    {
+      "id": "277",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "full-rimmed frames for a sturdy build",
+      "price": 2870
+    },
+    {
+      "id": "278",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Rainbow Sparkle Glasses",
+      "description": "scratch-resistant lenses with clear vision",
+      "price": 9538
+    },
+    {
+      "id": "279",
+      "categoryId": "kids",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "SmartLook Vision",
+      "description": "flexible frames for an active lifestyle",
+      "price": 6746
+    },
+    {
+      "id": "280",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Playful Sight Spectacles",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 5867
+    },
+    {
+      "id": "281",
+      "categoryId": "kids",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Chic Visionary Frames",
+      "description": "lightweight frames for everyday comfort",
+      "price": 9499
+    },
+    {
+      "id": "282",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TinyVision Fun Glasses",
+      "description": "frameless for an unobstructed view",
+      "price": 6915
+    },
+    {
+      "id": "283",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Classic Vision Pro",
+      "description": "UV protection with sleek design",
+      "price": 2045
+    },
+    {
+      "id": "284",
+      "categoryId": "men",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Little Hero Vision",
+      "description": "flexible frames for an active lifestyle",
+      "price": 1976
+    },
+    {
+      "id": "285",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Classic Vision Pro",
+      "description": "premium quality lenses with anti-scratch coating",
+      "price": 9172
+    },
+    {
+      "id": "286",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070889/pexels-photo-27070889/free-photo-of-distinctive-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "adjustable nose pads for a custom fit",
+      "price": 4065
+    },
+    {
+      "id": "287",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4226865/pexels-photo-4226865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "CoolLook Vision",
+      "description": "retro-inspired with modern detailing",
+      "price": 841
+    },
+    {
+      "id": "288",
+      "categoryId": "women",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Horizon Eyewear",
+      "description": "customizable frame colors for personalized fashion",
+      "price": 6654
+    },
+    {
+      "id": "289",
+      "categoryId": "women",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472304/pexels-photo-5472304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Titan Men EyeGear",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 5269
+    },
+    {
+      "id": "290",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5472317/pexels-photo-5472317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "vibrant colors for a fun fashion statement",
+      "price": 7148
+    },
+    {
+      "id": "291",
+      "categoryId": "women",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "SmartLook Vision",
+      "description": "luxurious frames with a glossy finish",
+      "price": 1446
+    },
+    {
+      "id": "292",
+      "categoryId": "men",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "TrendSetter Eyewear",
+      "description": "high-definition lenses for crisp",
+      "price": 9700
+    },
+    {
+      "id": "293",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "City Sleek Spectacles",
+      "description": "unique geometric shapes for an edgy style",
+      "price": 3775
+    },
+    {
+      "id": "294",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5247936/pexels-photo-5247936.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Mini Marvel EyeGear",
+      "description": "eco-friendly materials for sustainable fashion",
+      "price": 5870
+    },
+    {
+      "id": "295",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/6479569/pexels-photo-6479569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "specsName": "Classic Vision Pro",
+      "description": "hypoallergenic materials for sensitive skin",
+      "price": 900
+    },
+    {
+      "id": "296",
+      "categoryId": "men",
+      "type": "eye-glasses",
+      "imageSrc": "https://images.pexels.com/photos/5752398/pexels-photo-5752398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Crystal Clear Women’s Frames",
+      "description": "blue light blocking for eye strain relief",
+      "price": 3020
+    },
+    {
+      "id": "297",
+      "categoryId": "kids",
+      "type": "sun-glasses",
+      "imageSrc": "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Sharp Looker Specs",
+      "description": "luxurious frames with a glossy finish",
+      "price": 7650
+    },
+    {
+      "id": "298",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27111651/pexels-photo-27111651/free-photo-of-round-pink-glasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Horizon Eyewear",
+      "description": "unique patterns and textures for standout style",
+      "price": 1896
+    },
+    {
+      "id": "299",
+      "categoryId": "women",
+      "type": "power-glasses",
+      "imageSrc": "https://images.pexels.com/photos/27070891/pexels-photo-27070891/free-photo-of-unique-eyewear-styles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Radiant Beauty Eyewear",
+      "description": "compact and portable for on-the-go use",
+      "price": 5048
+    },
+    {
+      "id": "300",
+      "categoryId": "men",
+      "type": "screen-glasses",
+      "imageSrc": "https://images.pexels.com/photos/4500920/pexels-photo-4500920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "specsName": "Vintage Gents Spectacles",
+      "description": "contemporary design with a touch of vintage",
+      "price": 7324
+    }
+  ],
+  "users": [
+    {
+      "id": "842e",
+      "firstName": "aditya",
+      "lastName": "ranjan",
+      "email": "adii@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "be00",
+      "firstName": "user",
+      "lastName": "1",
+      "email": "user1@gmail.com",
+      "password": "user1amiti"
+    },
+    {
+      "id": "7e86",
+      "firstName": "user",
+      "lastName": "2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "d4d9",
+      "firstName": "user",
+      "lastName": "3",
+      "email": "user3@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f128",
+      "firstName": "abdul",
+      "lastName": "rahman",
+      "email": "a@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a530",
+      "firstName": "user",
+      "lastName": "4",
+      "email": "user4@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
